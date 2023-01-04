@@ -21,7 +21,11 @@ Knowing the type (i.e., the biochemical composition) of kidney stones is crucial
  
 ## Summary 
 
-[Results](https://docs.google.com/spreadsheets/d/1bn8iFFtGHVaXhVD2Xmit1vxCTzIxOLLX3wfbi6_Tln0/edit?usp=sharing)
+* feat.xlsx
+* results.xlsx
+* colab.ipynb
+* preprint.pdf
+* dirhuggingface
  
 ## Organization
 
