@@ -26,31 +26,24 @@ No additional content directories are declared.
 
 Code for algorithms, applications and tools contributed by:
 
-[Francisco Javier Lopez-Tiro](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), 
+[Francisco Lopez](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), Andres Varela, Oscar Hinojosa, Mauricio Mendez, Dinh-Hoan Trinh, Jonathan ElBeze, Jacques Hubert, Vincent Estrade, Miguel Gonzalez, [Gilberto Ochoa](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en&authuser=1), [Christian Daul](https://scholar.google.com/citations?user=XPH6u74AAAAJ&hl=en&authuser=1)
 
-
-https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en&authuser=1
-https://scholar.google.com/citations?user=XPH6u74AAAAJ&hl=en&authuser=1
-
-
-
-Please email us your comments, criticism, and questions at [`francisco.lopez@inaoe.mx`](mailto:francisco.lopez@inaoe.com?subject=[GitHub]%20elsevier-wavelet%20repository)
+Please email us your comments, criticism, and questions at [`gilberto.ochoa@tec.mx`](mailto:gilberto.ochoa@tec.mx?subject=[GitHub]%20ks-baseline%20repository)
 
 
 ## Reference
 
 If you use functions from this script in your work, please use the BibTex entry below for citation.
 
-[[Paper]](https://www.sciencedirect.com/science/article/pii/S1746809421004894)
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9630211)
 
 ```
-@article{lopez2021visualization,
-  title={Visualization of blood vessels in in vitro raw speckle images using an energy-based on DWT coefficients},
-  author={Lopez-Tiro, Francisco Javier and Peregrina-Barreto, Hayde and de Jesus Rangel-Magdaleno, Jose and Ramirez-San-Juan, Julio Cesar},
-  journal={Biomedical Signal Processing and Control},
-  volume={69},
-  pages={102892},
+@inproceedings{lopez2021assessing,
+  title={Assessing deep learning methods for the identification of kidney stones in endoscopic images},
+  author={Lopez, Francisco and Varelo, Andres and Hinojosa, Oscar and Mendez, Mauricio and Trinh, Dinh-Hoan and ElBeze, Yonathan and Hubert, Jacques and Estrade, Vincent and Gonzalez, Miguel and Ochoa, Gilberto and others},
+  booktitle={2021 43rd Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)},
+  pages={2778--2781},
   year={2021},
-  publisher={Elsevier}
+  organization={IEEE}
 }
 ```
